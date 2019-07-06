@@ -1,0 +1,42 @@
+body
+{
+	background-color: #C0C0C0;
+	color: #8B0000;
+	font-family: "courier new", courier, "lucida sans typewriter";
+}
+
+h1
+{
+	color: #FF0000;
+	font-family: copperplate, "copperplate gothic light", fantasy;
+	text-align: center;
+}
+
+header
+{
+	font-size: 130%;
+	text-align: center;
+}
+
+footer
+{
+	margin-top: 5%;
+	font-size: 70%;
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+table
+{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+table, th, td
+{
+	border: 1px solid black;
+}

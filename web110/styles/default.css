@@ -1,0 +1,34 @@
+header
+{
+	color: #FF0000;
+	font-family: copperplate, "copperplate gothic light", fantasy;
+	text-align: center;
+}
+
+body
+{
+	background-color: #C0C0C0;
+	color: #8B0000;
+	font-family: 'Titillium Web', sans-serif;
+	margin: 10%;
+}
+
+footer
+{
+	text-align: center;
+}
+
+#image
+{
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+p
+{
+	margin-left: 3%;
+}

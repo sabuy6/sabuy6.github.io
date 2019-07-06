@@ -1,0 +1,78 @@
+header
+{
+	color: #FF0000;
+	font-family: copperplate, "copperplate gothic light", fantasy;
+	text-align: center;
+	font-size: 150%;
+}
+
+body
+{
+	background-color: #C0C0C0;
+	color: #8B0000;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+main
+{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+footer
+{
+	text-align: center;
+}
+
+#image
+{
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+.phrase
+{
+	text-align: center;
+	font-family: arial, serif;
+	font-style: italic;
+	color: black;
+	font-size: 75%;
+}
+
+h1
+{
+	text-align: center;
+	color: #ff0000;
+}
+
+dt
+{
+	font-weight: bold;
+	color: #000099;
+}
+
+h3
+{
+	color: #000099;
+	margin-left: 50px;
+}
+
+h2
+{
+	color: #FF0000;
+}
+
+.banner
+{
+	background-image: url("banner.jpg");
+	height: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: relative;
+}

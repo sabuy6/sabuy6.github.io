@@ -1,0 +1,44 @@
+header
+{
+	color: #009900;
+	font-family: copperplate, "copperplate gothic light", fantasy;
+	text-align: center;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #00FF00;
+}
+
+body
+{
+	background-color: #f2e6ff;
+	color: #009900;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+p
+{
+	margin: 10px 5% 10px 5%;
+}
+
+footer
+{
+	text-align: center;
+	border-style: ridge;
+	border-color: #00FF00;
+}
+
+#image
+{
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+h3
+{
+	font-family: 'Indie Flower', cursive;
+	color: #0066cc;
+}
